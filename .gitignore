@@ -1,0 +1,4 @@
+# Project exclude paths
+/du-admin/target/
+/du-common/target/
+/du-Test/target/
